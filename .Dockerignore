@@ -1,0 +1,33 @@
+######################### COMMON ###############################################
+# https://raw.githubusercontent.com/erdaltsksn/dockerignore/main/templates/Common.dockerignore
+################################################################################
+# Git
+.git
+.gitignore
+.gitattributes
+.github
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+SECURITY.md
+LICENSE
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode
+
+# NodeJS
+node_modules
+
+# NodeJS with TypeScript
+dist
